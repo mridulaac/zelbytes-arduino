@@ -1,5 +1,4 @@
-Name:Mridula A Chandran 
-
+TASKS COMPLETED
 1. Configured LED and relay pin settings in `config.h`.
 2. Tested LED ON/OFF operation using Arduino.
 3. Developed and verified relay control code.
