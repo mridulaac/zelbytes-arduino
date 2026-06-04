@@ -1,4 +1,4 @@
-### Tasks Completed Today
+### Tasks Completed
 
 * Connected the push button, relay module, status LED, and Arduino Nano according to the circuit requirements.
 * Implemented manual irrigation control using a debounced push button input.
