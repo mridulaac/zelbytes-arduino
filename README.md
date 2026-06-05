@@ -9,5 +9,3 @@
 - LED and relay integration
 - Manual irrigation valve control using relay
 - Automatic valve turn-off after 5 seconds
-- Hardware testing and debugging
-- Documentation preparation
