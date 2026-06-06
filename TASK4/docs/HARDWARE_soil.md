@@ -40,13 +40,3 @@ The probe is inserted into the soil. When soil moisture increases, electrical re
 The module receives the signal from the soil moisture probe and converts it into an analog voltage. The AO pin sends a continuous moisture value to the Arduino, while the DO pin can provide a HIGH or LOW signal based on a preset threshold.
 
 
-
-### 4. Jumper Wires
-
-**Hardware Details**
-
-* Flexible insulated connecting wires.
-* Available as male-to-male, male-to-female, and female-to-female.
-
-**Working**
-Jumper wires provide electrical connections between the Arduino Uno, comparator module, and soil moisture sensor, allowing signal and power transfer within the system.
