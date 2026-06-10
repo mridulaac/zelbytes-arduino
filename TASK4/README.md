@@ -24,5 +24,10 @@
 * Connected a soil moisture sensor and comparator module.
 * Recorded moisture readings for dry and wet soil.
 * Calibrated threshold values for moisture detection.
+
+## DAY11: Multisensor Serial Dashboard
+. Connected ldr,DHT22,Ultrasonic sensor, Soil moisture into a single circuit.
+. Observed the readings and made a table(day11_unity_table.md) in docs
+  
   
 
