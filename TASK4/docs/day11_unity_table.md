@@ -108,15 +108,4 @@
 | 438 | 86 | WET |
 | 425 | 89 | WET |
 
-## Moisture Classification
 
-| Moisture (%) | Condition |
-|--------------|-----------|
-| 0 - 29 | DRY |
-| 30 - 69 | MOIST |
-| 70 - 100 | WET |
-
-## Moisture Mapping
-
-```cpp
-moisture = map(raw, DRY_ADC, WET_ADC, 0, 100);
